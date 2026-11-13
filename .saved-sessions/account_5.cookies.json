@@ -1,0 +1,67 @@
+{
+  "acctId": "account_5",
+  "partition": "persist:account_5",
+  "savedAt": "2026-11-01T17:17:30.286Z",
+  "cookies": [
+    {
+      "name": "_gcl_au",
+      "value": "1.1.391946855.1793104473",
+      "domain": ".gemini.google.com",
+      "path": "/",
+      "secure": false,
+      "httpOnly": false,
+      "sameSite": "lax",
+      "expirationDate": 1800880473
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1218603858.1793104475",
+      "domain": ".gemini.google.com",
+      "path": "/",
+      "secure": false,
+      "httpOnly": false,
+      "sameSite": "lax",
+      "expirationDate": 1827664483.595094
+    },
+    {
+      "name": "NID",
+      "value": "CuQBCAESlgEBM9Agl073YY6pMcjKp6_CxhWCOzlMcTx0D2SqWZHZNCnWTVWe5pFOEjHDIOrvnBR5V7VBgSa5hY7ybiXE5Zv4jm-MlRiEttPY524ZkvNJmQ693RwHHYm4zX9q0GnaLC9R3-GNRPDaRmprzPmfvyZknCEq0HpF64tT4GGhJIhRhL1km2g_mk7fUz9NhitMk31HQxAazjEoATJFAXBKQs8HNIYib2roby3Sef7LloIgsk1HaUi3Dk-zKF4ic34Xw0u3hqQ6ThzOKsmHUr8y_OtedhGkxqocUCw5AK3T0hUH",
+      "domain": ".google.com",
+      "path": "/",
+      "secure": true,
+      "httpOnly": true,
+      "sameSite": "no_restriction",
+      "expirationDate": 1809363589.303671
+    },
+    {
+      "name": "COMPASS",
+      "value": "gwus-pd=CjYACWuJV6bdbSKCsd3u60qAkVAfygccGCCfpHkG4CElBKJ49ycMN55fMbrGk3w4rTFjTPKDAK8QhIOj1wYaUQAJa4lX2j74tGZgsZqChT6cZ06RYGWuyMQQjWki2P4NwA-UNqZbZESQbrzbcMddGtjCNgFG2vrqWImjMmd7y4OwVwLFYr9hn8FXm33YYsX69iABMAE",
+      "domain": ".gemini.google.com",
+      "path": "/",
+      "secure": true,
+      "httpOnly": true,
+      "sameSite": "no_restriction",
+      "expirationDate": 1794416389.303737
+    },
+    {
+      "name": "_ga_WC57KJ50ZZ",
+      "value": "GS2.1.s1793104474$o1$g1$t1793104483$j51$l0$h0",
+      "domain": ".gemini.google.com",
+      "path": "/",
+      "secure": false,
+      "httpOnly": false,
+      "sameSite": "lax",
+      "expirationDate": 1827664483.371949
+    },
+    {
+      "name": "_ga_BF8Q35BMLM",
+      "value": "GS2.1.s1793104475$o1$g1$t1793104483$j52$l0$h0",
+      "domain": ".gemini.google.com",
+      "path": "/",
+      "secure": false,
+      "httpOnly": false,
+      "sameSite": "lax",
+      "expirationDate": 1827664483.592491
+    }
+  ]
+}

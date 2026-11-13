@@ -1,0 +1,79 @@
+{
+  "projectName": "latest-project",
+  "projectRoot": "C:\\Users\\bisht\\Downloads\\Gemini-Studio-Workspace\\latest-project",
+  "updatedAt": "11:42:45 pm",
+  "totalFiles": 2,
+  "largeFileCount": 0,
+  "totalProjectBytes": 77768,
+  "formattedTotalSize": "76 KB",
+  "techStack": [
+    "HTML5",
+    "React"
+  ],
+  "entryFile": "index.html",
+  "totalFunctionsIndexed": 0,
+  "totalClassesIndexed": 0,
+  "modules": [
+    {
+      "relativePath": "index.html",
+      "functions": [],
+      "classes": [],
+      "imports": [
+        "https://cdn.tailwindcss.com",
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+      ],
+      "exports": [],
+      "domTargets": [
+        "#gameCanvas",
+        "#uiLayer",
+        "#hudTop",
+        "#hudDistance",
+        "#hudCoins",
+        "#hudSpeed",
+        "#hudCombo",
+        "#comboText",
+        "#comboBonus",
+        "#pauseBtn",
+        "#floatingHudContainer",
+        "#stuntAlert",
+        "#hudBottom",
+        "#fuelText",
+        "#fuelBar",
+        "<canvas>"
+      ],
+      "size": 30943,
+      "formattedSize": "30 KB"
+    },
+    {
+      "relativePath": "page_2.html",
+      "functions": [],
+      "classes": [],
+      "imports": [
+        "https://cdn.tailwindcss.com",
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+      ],
+      "exports": [],
+      "domTargets": [
+        "#gameCanvas",
+        "#uiLayer",
+        "#hudTop",
+        "#hudDistance",
+        "#hudCoins",
+        "#hudSpeed",
+        "#hudCombo",
+        "#comboText",
+        "#comboBonus",
+        "#pauseBtn",
+        "#floatingHudContainer",
+        "#stuntAlert",
+        "#hudBottom",
+        "#fuelText",
+        "#fuelBar",
+        "<canvas>"
+      ],
+      "size": 46825,
+      "formattedSize": "46 KB"
+    }
+  ],
+  "largeFiles": []
+}
